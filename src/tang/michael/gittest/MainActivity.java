@@ -25,4 +25,5 @@ public class MainActivity extends Activity {
 	}
 
 	// dog dog
+	// The dog goes woof.
 }
